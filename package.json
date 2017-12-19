@@ -1,0 +1,13 @@
+{
+  "id": "feedly",
+  "name": "Feedly",
+  "version": "1.0.0",
+  "description": "Feedly - news aggregator",
+  "main": "index.js",
+  "author": "alphamyd",
+  "license": "MIT",
+  "repository": "https://github.com/alphamyd/meetfranz-recipe-feedly",
+  "config": {
+    "serviceURL": "https://feedly.com/"
+  }
+}
